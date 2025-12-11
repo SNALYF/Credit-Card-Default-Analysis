@@ -1,0 +1,23 @@
+{
+  "validation": {
+    "mean_f1_val": 0.5384476492145165,
+    "mean_f1_train": 0.5623157082793669,
+    "best_params": {
+      "xgbclassifier__colsample_bytree": 0.7654067110303091,
+      "xgbclassifier__gamma": 3.6120336295440474,
+      "xgbclassifier__learning_rate": 0.06082788643998809,
+      "xgbclassifier__max_depth": 4,
+      "xgbclassifier__min_child_weight": 5,
+      "xgbclassifier__n_estimators": 141,
+      "xgbclassifier__reg_alpha": 0.03937711265024839,
+      "xgbclassifier__reg_lambda": 5.597563443485648,
+      "xgbclassifier__subsample": 0.6450878673259809
+    }
+  },
+  "test": {
+    "f1": 0.549793191218581,
+    "precision": 0.47577092511013214,
+    "recall": 0.6510926902788244,
+    "accuracy": 0.7641666666666667
+  }
+}
