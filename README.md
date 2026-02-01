@@ -1,4 +1,4 @@
-## Lab 4: Credit Card Default Prediction — Reproducible ML Pipeline
+## Credit Card Default Prediction — Reproducible ML Pipeline
 
 This project implements a complete, reproducible machine-learning pipeline for predicting credit card default using the Default of Credit Card Clients dataset.
 The pipeline follows the full ML workflow taught in DSCI 573, including preprocessing, feature engineering, model selection, hyperparameter optimization, and interpretation using SHAP.
@@ -170,8 +170,3 @@ Improve feature engineering for time-series characteristics
 Try focal loss or SMOTE to address class imbalance
 
 Use Bayesian optimization for more efficient hyperparameter search
-
-# Acknowledgements
-
-This project follows the MDS 2025-26 curriculum (DSCI 571 + DSCI 573).
-Dataset originally from: Yeh et al. (2009) – UCI Machine Learning Repository.
